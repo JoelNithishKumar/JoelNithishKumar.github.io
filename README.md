@@ -1,2 +1,2 @@
 # JoelNithishKumar.github.io
-The assignment is in master branch
+The LAB 1 assignment is in master branch
