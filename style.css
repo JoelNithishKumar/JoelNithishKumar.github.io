@@ -2,8 +2,10 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f0f8ff; /* Light Blue */
     color: #333333; /* Dark Gray */
-    text-align: center;
+    text-align: center; /* Center the name */
     padding: 20px;
+    border: 5px solid #333; /* Border around the whole page */
+    margin: 20px;
 }
 
 h1 {
@@ -18,6 +20,7 @@ section {
     padding: 15px;
     width: 80%;
     border-radius: 10px;
+    text-align: left; /* Align content to the left inside sections */
 }
 
 #introduction {
@@ -26,4 +29,25 @@ section {
 
 #education {
     background-color: #98fb98; /* Pale Green */
+}
+
+/* Heading Styles */
+#introduction h2 {
+    color: darkorange;
+}
+
+#education h2 {
+    color: red;
+}
+
+/* Paragraph and List Styles */
+p, li {
+    color: darkblue;
+    line-height: 1.6;
+}
+
+/* List Style */
+ul {
+    list-style-type: disc;
+    padding-left: 20px; /* Indent bullet points */
 }
