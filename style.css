@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff; /* Light Blue */
+    color: #333333; /* Dark Gray */
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #0047ab; /* Blue */
+    margin-bottom: 20px;
+}
+
+section {
+    border: 2px solid #008080; /* Teal border */
+    background-color: #ffe4b5; /* Moccasin */
+    margin: 20px auto;
+    padding: 15px;
+    width: 80%;
+    border-radius: 10px;
+}
+
+#introduction {
+    background-color: #ffb6c1; /* Light Pink */
+}
+
+#education {
+    background-color: #98fb98; /* Pale Green */
+}
